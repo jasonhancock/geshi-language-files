@@ -1,0 +1,10 @@
+The puppet.php geshi language file found here is an update to one originally
+found at http://www.mague.com/files/puppet.php
+
+The pull_puppet_keywords.pl script parses the online puppet documentation and
+generates some output that you can then copy/paste into the puppet.php to keep
+your keywords up to date. You need to have perl and wget installed for this
+script to work. To run the script, simply run:
+
+./pull_puppet_keywords.pl
+
